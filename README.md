@@ -7,7 +7,6 @@ Welcome to the AutomationScripts repository! This collection includes Python and
 - [PowerShell Scripts](#powershell-scripts)
 - [Script Usage Guide](#script-usage-guide)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Python Scripts
 
