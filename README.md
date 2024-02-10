@@ -11,6 +11,9 @@ Welcome to the AutomationScripts repository! This collection includes Python and
 
 ## Python Scripts
 
+### 1. `bulk_folder_rename.py`
+This script enables the user to batch-rename folders in a designated directory using names listed in a text file called "what-file.txt". To start, enter the target path for the desired folder (directory_path) and allow the script to access it. The program will then evaluate whether or not there is an equal amount of directories present as specified in what-file.txt. If successful, each respective folder's name shall be altered based on its matching position with regard to that relevantly dictated within said .txt document - yielding efficient mass renaming capabilities personalized by their author(s).
+
 ### Will be uploaded very soon
 
 ## PowerShell Scripts
